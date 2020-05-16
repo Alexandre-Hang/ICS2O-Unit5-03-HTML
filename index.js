@@ -4,7 +4,7 @@ function movieWatch() {
   age = document.getElementById("age").value;
   if (age >= 17)
   {
-    alert ("You can watch any R rated or less rated movie alone");
+    alert ("You can watch any R or less rated movie alone");
   }
   else if (age >= 13)
   {
